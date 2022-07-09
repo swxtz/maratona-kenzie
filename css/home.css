@@ -1,1 +1,20 @@
-/*# sourceMappingURL=home.css.map */
+header .logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px red solid;
+}
+header .text {
+  border: 2px red solid;
+  background-image: url(../assets/img/banner.png);
+}
+header .text p {
+  color: #FFFFFF;
+}
+header .text h1 {
+  color: #FFFFFF;
+}
+
+body {
+  background-color: #242424;
+}/*# sourceMappingURL=home.css.map */

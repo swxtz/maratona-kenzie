@@ -1,0 +1,26 @@
+header {
+    .logo{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px red solid;
+    }
+
+    .text {
+        border: 2px red solid;
+        background-image: url(../assets/img/banner.png);
+
+        p {
+            color: #FFFFFF;
+        }
+
+        h1 {
+           color: #FFFFFF;
+        }
+    }
+}
+
+
+body {
+    background-color: #242424;
+}
